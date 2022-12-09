@@ -6,13 +6,13 @@ Due to the development of technology, the dissemination and collection of inform
 
 
 ## Dataset:
-Contain all the datasets we used. 
+This is a floder which contains all the datasets we used.
 
 ## Model:
-Contain the zipped model
+This is a folder which contains the zipped models.
 
 ## Tokenizer:
-Contain all the tokenizers we used to tokenized the text
+This is a folder which contains all the tokenizers we used to tokenized the text.
 
 ## Dict:
-Contain the dictionary to translate the preidtion from a number to a string.
+This is a folder which contains the dictionary to translate the preidtion from a number to a string.
