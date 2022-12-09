@@ -4,8 +4,11 @@ A Team Project for a graduate level NLP class
 
 # Group members:
 Hengxin Wu (hw467)
+
 Muwen Huang (mh2038)
+
 Chenyue Jin (cj576)
+
 Jianqiao Zhang (jz758)
 
 # Project Description:
