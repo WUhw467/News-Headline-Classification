@@ -6,7 +6,7 @@ Due to the development of technology, the dissemination and collection of inform
 
 
 ## Dataset:
-Contain all the datasets we used
+Contain all the datasets we used. 
 
 ## Model:
 Contain the zipped model
